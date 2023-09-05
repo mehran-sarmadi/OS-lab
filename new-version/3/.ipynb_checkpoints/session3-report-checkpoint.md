@@ -3,8 +3,6 @@ Team Name: `[FILL HERE]`
 Student Name of member 1: `[FILL HERE]`
 Student No. of member 1: `[FILL HERE]`
 
-Student Name of member 2: `[FILL HERE]`
-Student No. of member 2: `[FILL HERE]`
 
 - [X] Read Session Contents.
 
