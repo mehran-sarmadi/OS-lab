@@ -1,7 +1,8 @@
-Team Name: `[FILL HERE]`
+Team Name: 966127035
 
-Student Name of member 1: `[FILL HERE]`
-Student No. of member 1: `[FILL HERE]`
+Student Name of member 1: amin mansouri
+
+Student No. of member 1: 966127035
 
 
 - [x] Read Session Contents.
